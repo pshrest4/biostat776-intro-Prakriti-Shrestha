@@ -1,6 +1,5 @@
 # Introducing Prakriti Shrestha
 This website contains a short introduction of myself.
-<<<<<<< HEAD
 
 ## About me
 I am a first year PhD student in the Department of International Health in the Health Systems Program. I am originally from Kathmandu, Nepal but I have lived in Baltimore and worked or studied at Hopkins for about 6 years now. I first started working with the Epidemiology Research Group in Organ Transplantation at the JH School of Medicine and then went on to get my MSPH in International Health in the Health Systems Program.
