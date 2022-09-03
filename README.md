@@ -1,1 +1,2 @@
-# biostat776-intro-Prakriti-Shrestha
+# Introducing Prakriti Shrestha
+This website contains a short introduction of myself.
